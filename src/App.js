@@ -8,6 +8,7 @@ import ME from './components/ME';
 import Education from './components/Education';
 import Educations from './components/Educations';
 import Year from './components/Year';
+import Split from './components/Split';
 
 class App extends Component {
   render() {
@@ -16,6 +17,7 @@ class App extends Component {
         <Logo />
         <Hello />
         <Introduce />
+        <Split />
         <About />
         <ME />
         <Education />

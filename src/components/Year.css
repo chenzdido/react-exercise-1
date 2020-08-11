@@ -1,0 +1,9 @@
+.years {
+  margin-top: -20px;
+  margin-left: -30px;
+}
+.year {
+  margin: 40px 50px;
+  font-size: 15px;
+  font-weight: bold;
+}

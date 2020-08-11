@@ -4,30 +4,30 @@ import './Educations.css';
 const Educations = () => {
   return (
     <ul className="educations">
-      <li>
-        <h4>I was born in Kaatowice</h4>
+      <li className="intro">
+        <p className="beg">I was born in Kaatowice</p>
         <p>
           Lorem ipsum dolor sit amet,consectetur adipisicing elit. Sapienet,
           exercitationem, totam, dolores iste dolore est aut modi.
         </p>
       </li>
-      <li>
-        <h4>Secondary school Specializing in artistic</h4>
+      <li className="intro">
+        <p className="beg">Secondary school Specializing in artistic</p>
         <p>
           Eos, explicabo, nam, tenetur et ab eius deserunt aspernatur ipsum
           ducimus quibusdam quis voluptatibus.
         </p>
       </li>
-      <li>
-        <h4>First level graduation in Graphic Dsign</h4>
+      <li className="intro">
+        <p className="beg">First level graduation in Graphic Dsign</p>
         <p>
           Aspernatur, mollitia, quos maxime eius suscipit sed beatae ducimus
           quaerat quibusdam perferendis? lusto, quibusdam asperiores unde
           repellat.
         </p>
       </li>
-      <li>
-        <h4>Second level graduation in Graphic Design</h4>
+      <li className="intro">
+        <p className="beg">Second level graduation in Graphic Design</p>
         <p>Ducimus, aliquam tempore autem itaque et accusantium!</p>
       </li>
     </ul>

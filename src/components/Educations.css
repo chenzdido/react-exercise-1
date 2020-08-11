@@ -1,3 +1,13 @@
 .educations {
   float: right;
 }
+.intro {
+  background-color: #ededed;
+  padding: 0 10px;
+  margin: 10px 0;
+}
+.beg {
+  font-size: large;
+  font-weight: bold;
+  padding: 5px 0;
+}
